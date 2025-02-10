@@ -12,10 +12,10 @@ const Header = () => {
             <div className='flex gap-4 nav'>
                 <NavLink to="/" className={({ isActive }) => 
                     isActive ? "text-blue-500" : "text-black"
-                    }>Lista Voli</NavLink>
+                }>Lista Voli</NavLink>
                 <NavLink to="/favs" className={({ isActive }) => 
                     isActive ? "text-blue-500" : "text-black"
-                    }>Lista Preferiti</NavLink>
+                }>Lista Preferiti</NavLink>
             </div>
           </div>
         </div>
