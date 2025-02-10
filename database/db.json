@@ -1,0 +1,28 @@
+{
+  "favs": [
+    {
+      "id": "54a1",
+      "airline": "9 Air Co",
+      "iata": "AQ1466",
+      "departure_airport": "Tumxuk Tangwangcheng Airport",
+      "arrival_airport": "Urumqi",
+      "status": "scheduled"
+    },
+    {
+      "id": "024a",
+      "airline": "China Postal Airlines",
+      "iata": "CF9005",
+      "departure_airport": "Daguocun",
+      "arrival_airport": "Nanjing Lukou International Airport",
+      "status": "scheduled"
+    },
+    {
+      "id": "f3ac",
+      "airline": "empty",
+      "iata": null,
+      "departure_airport": "Townsville International",
+      "arrival_airport": "Cairns",
+      "status": "scheduled"
+    }
+  ]
+}
